@@ -1,0 +1,28 @@
+﻿@model IEnumerable<MemberVM>
+@{
+    ViewData["Title"] = "Members List";
+}
+<div>
+    <a asp-action="Create">Create a member</a>
+    <br /><br />
+</div>
+<div class="text-center">
+
+
+    @(Html.Grid(Model)
+                            .Build(columns =>
+                            {
+                                columns.Add(model => model.FirstName).Titled("First Name");
+                                columns.Add(model => model.LastName).Titled("Last Name");
+                                columns.Add(model => model.Email).Titled("Email");
+                                columns.Add(model => model.Phone).Titled("Phone");
+                                columns.Add(model => model.Id).Filterable(false).Titled("").RenderedAs(model => Html.Raw("<a href='/Home/Edit/" + @model.Id + "'>Edit</a>"));
+                                columns.Add(model => model.Id).Filterable(false).Titled("").RenderedAs(model => Html.Raw("<a href='/Home/Delete/" + @model.Id + "'>Delete</a>"));
+
+
+
+                            }).Empty("No data found")
+                            .Filterable()
+                            .Sortable()
+                            .Pageable())
+</div>
