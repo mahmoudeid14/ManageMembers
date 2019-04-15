@@ -1,0 +1,24 @@
+S:\Private\MemberWebApp\Member.Data\bin\Debug\netcoreapp2.2\Member.Models.dll
+S:\Private\MemberWebApp\Member.Data\obj\Debug\netcoreapp2.2\Member.Data.csprojAssemblyReference.cache
+S:\Private\MemberWebApp\Member.Data\obj\Debug\netcoreapp2.2\Member.Data.csproj.CoreCompileInputs.cache
+S:\Private\MemberWebApp\Member.Data\obj\Debug\netcoreapp2.2\Member.Data.AssemblyInfoInputs.cache
+S:\Private\MemberWebApp\Member.Data\obj\Debug\netcoreapp2.2\Member.Data.AssemblyInfo.cs
+S:\Private\MemberWebApp\Member.Data\bin\Debug\netcoreapp2.2\Member.Data.deps.json
+S:\Private\MemberWebApp\Member.Data\bin\Debug\netcoreapp2.2\Member.Data.dll
+S:\Private\MemberWebApp\Member.Data\bin\Debug\netcoreapp2.2\Member.Data.pdb
+S:\Private\MemberWebApp\Member.Data\bin\Debug\netcoreapp2.2\Member.Models.pdb
+S:\Private\MemberWebApp\Member.Data\obj\Debug\netcoreapp2.2\Member.Data.csproj.CopyComplete
+S:\Private\MemberWebApp\Member.Data\obj\Debug\netcoreapp2.2\Member.Data.dll
+S:\Private\MemberWebApp\Member.Data\obj\Debug\netcoreapp2.2\Member.Data.pdb
+E:\New folder\MemberWebApp\Member.Data\bin\Debug\netcoreapp2.2\Member.Data.deps.json
+E:\New folder\MemberWebApp\Member.Data\bin\Debug\netcoreapp2.2\Member.Data.dll
+E:\New folder\MemberWebApp\Member.Data\bin\Debug\netcoreapp2.2\Member.Data.pdb
+E:\New folder\MemberWebApp\Member.Data\bin\Debug\netcoreapp2.2\Member.Models.dll
+E:\New folder\MemberWebApp\Member.Data\bin\Debug\netcoreapp2.2\Member.Models.pdb
+E:\New folder\MemberWebApp\Member.Data\obj\Debug\netcoreapp2.2\Member.Data.csprojAssemblyReference.cache
+E:\New folder\MemberWebApp\Member.Data\obj\Debug\netcoreapp2.2\Member.Data.csproj.CoreCompileInputs.cache
+E:\New folder\MemberWebApp\Member.Data\obj\Debug\netcoreapp2.2\Member.Data.AssemblyInfoInputs.cache
+E:\New folder\MemberWebApp\Member.Data\obj\Debug\netcoreapp2.2\Member.Data.AssemblyInfo.cs
+E:\New folder\MemberWebApp\Member.Data\obj\Debug\netcoreapp2.2\Member.Data.csproj.CopyComplete
+E:\New folder\MemberWebApp\Member.Data\obj\Debug\netcoreapp2.2\Member.Data.dll
+E:\New folder\MemberWebApp\Member.Data\obj\Debug\netcoreapp2.2\Member.Data.pdb

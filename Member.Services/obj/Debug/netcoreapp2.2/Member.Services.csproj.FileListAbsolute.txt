@@ -1,0 +1,28 @@
+S:\Private\MemberWebApp\Member.Services\bin\Debug\netcoreapp2.2\Member.Services.deps.json
+S:\Private\MemberWebApp\Member.Services\bin\Debug\netcoreapp2.2\Member.Services.dll
+S:\Private\MemberWebApp\Member.Services\bin\Debug\netcoreapp2.2\Member.Services.pdb
+S:\Private\MemberWebApp\Member.Services\obj\Debug\netcoreapp2.2\Member.Services.csprojAssemblyReference.cache
+S:\Private\MemberWebApp\Member.Services\obj\Debug\netcoreapp2.2\Member.Services.csproj.CoreCompileInputs.cache
+S:\Private\MemberWebApp\Member.Services\obj\Debug\netcoreapp2.2\Member.Services.AssemblyInfoInputs.cache
+S:\Private\MemberWebApp\Member.Services\obj\Debug\netcoreapp2.2\Member.Services.AssemblyInfo.cs
+S:\Private\MemberWebApp\Member.Services\obj\Debug\netcoreapp2.2\Member.Services.dll
+S:\Private\MemberWebApp\Member.Services\obj\Debug\netcoreapp2.2\Member.Services.pdb
+S:\Private\MemberWebApp\Member.Services\bin\Debug\netcoreapp2.2\Member.Data.dll
+S:\Private\MemberWebApp\Member.Services\bin\Debug\netcoreapp2.2\Member.Models.dll
+S:\Private\MemberWebApp\Member.Services\bin\Debug\netcoreapp2.2\Member.Data.pdb
+S:\Private\MemberWebApp\Member.Services\bin\Debug\netcoreapp2.2\Member.Models.pdb
+S:\Private\MemberWebApp\Member.Services\obj\Debug\netcoreapp2.2\Member.Services.csproj.CopyComplete
+E:\New folder\MemberWebApp\Member.Services\bin\Debug\netcoreapp2.2\Member.Services.deps.json
+E:\New folder\MemberWebApp\Member.Services\bin\Debug\netcoreapp2.2\Member.Services.dll
+E:\New folder\MemberWebApp\Member.Services\bin\Debug\netcoreapp2.2\Member.Services.pdb
+E:\New folder\MemberWebApp\Member.Services\bin\Debug\netcoreapp2.2\Member.Data.dll
+E:\New folder\MemberWebApp\Member.Services\bin\Debug\netcoreapp2.2\Member.Models.dll
+E:\New folder\MemberWebApp\Member.Services\bin\Debug\netcoreapp2.2\Member.Data.pdb
+E:\New folder\MemberWebApp\Member.Services\bin\Debug\netcoreapp2.2\Member.Models.pdb
+E:\New folder\MemberWebApp\Member.Services\obj\Debug\netcoreapp2.2\Member.Services.csprojAssemblyReference.cache
+E:\New folder\MemberWebApp\Member.Services\obj\Debug\netcoreapp2.2\Member.Services.csproj.CoreCompileInputs.cache
+E:\New folder\MemberWebApp\Member.Services\obj\Debug\netcoreapp2.2\Member.Services.AssemblyInfoInputs.cache
+E:\New folder\MemberWebApp\Member.Services\obj\Debug\netcoreapp2.2\Member.Services.AssemblyInfo.cs
+E:\New folder\MemberWebApp\Member.Services\obj\Debug\netcoreapp2.2\Member.Services.csproj.CopyComplete
+E:\New folder\MemberWebApp\Member.Services\obj\Debug\netcoreapp2.2\Member.Services.dll
+E:\New folder\MemberWebApp\Member.Services\obj\Debug\netcoreapp2.2\Member.Services.pdb

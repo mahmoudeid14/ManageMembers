@@ -1,0 +1,18 @@
+S:\Private\MemberWebApp\Member.Models\bin\Debug\netcoreapp2.2\Member.Models.deps.json
+S:\Private\MemberWebApp\Member.Models\bin\Debug\netcoreapp2.2\Member.Models.dll
+S:\Private\MemberWebApp\Member.Models\obj\Debug\netcoreapp2.2\Member.Models.csproj.CoreCompileInputs.cache
+S:\Private\MemberWebApp\Member.Models\obj\Debug\netcoreapp2.2\Member.Models.AssemblyInfoInputs.cache
+S:\Private\MemberWebApp\Member.Models\obj\Debug\netcoreapp2.2\Member.Models.AssemblyInfo.cs
+S:\Private\MemberWebApp\Member.Models\bin\Debug\netcoreapp2.2\Member.Models.pdb
+S:\Private\MemberWebApp\Member.Models\obj\Debug\netcoreapp2.2\Member.Models.csprojAssemblyReference.cache
+S:\Private\MemberWebApp\Member.Models\obj\Debug\netcoreapp2.2\Member.Models.dll
+S:\Private\MemberWebApp\Member.Models\obj\Debug\netcoreapp2.2\Member.Models.pdb
+E:\New folder\MemberWebApp\Member.Models\bin\Debug\netcoreapp2.2\Member.Models.deps.json
+E:\New folder\MemberWebApp\Member.Models\bin\Debug\netcoreapp2.2\Member.Models.dll
+E:\New folder\MemberWebApp\Member.Models\bin\Debug\netcoreapp2.2\Member.Models.pdb
+E:\New folder\MemberWebApp\Member.Models\obj\Debug\netcoreapp2.2\Member.Models.csprojAssemblyReference.cache
+E:\New folder\MemberWebApp\Member.Models\obj\Debug\netcoreapp2.2\Member.Models.csproj.CoreCompileInputs.cache
+E:\New folder\MemberWebApp\Member.Models\obj\Debug\netcoreapp2.2\Member.Models.AssemblyInfoInputs.cache
+E:\New folder\MemberWebApp\Member.Models\obj\Debug\netcoreapp2.2\Member.Models.AssemblyInfo.cs
+E:\New folder\MemberWebApp\Member.Models\obj\Debug\netcoreapp2.2\Member.Models.dll
+E:\New folder\MemberWebApp\Member.Models\obj\Debug\netcoreapp2.2\Member.Models.pdb
